@@ -6,4 +6,4 @@
 設定からショートカットキーに「イカを釣る」を登録してキーをタイプしてみよう
 
 ##Install
-	git clone https://github.com/mizofumi0411/mikutter_squid_angle.git ~/.mikutter/plugin/
+	git clone https://github.com/mizofumi0411/mikutter_squid_angle.git ~/.mikutter/plugin/mikutter_squid_angle
